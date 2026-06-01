@@ -22,8 +22,27 @@ used by the notebooks are in [`data/`](data/).
 | 5. Model evaluation and refinement (practice) | [Practice_Model_Evaluation.ipynb](Practice_Model_Evaluation.ipynb) | Additional model-evaluation practice. |
 | 6. Final assignment | [House_Sales_in_King_Count_USA.ipynb](House_Sales_in_King_Count_USA.ipynb) | End-to-end project: wrangling, EDA, regression and Ridge model evaluation on house-sales data. |
 
+## Grade evidence
+
+The [`screenshots/`](screenshots/) folder contains Coursera grade screenshots
+confirming completion of every graded item at **100%**:
+
+| Item | Grade | Submitted |
+|---|---|---|
+| Module 1 — Graded Quiz: Importing Data Sets | 100% | 21 May 2026 |
+| Module 2 — Graded Quiz: Data Wrangling | 100% | May 2026 |
+| Module 3 — Graded Quiz: Exploratory Data Analysis | 100% | May 2026 |
+| Module 4 — Graded Quiz: Model Development | 100% | May 2026 |
+| Module 5 — Graded Quiz: Model Evaluation and Refinement | 100% | 26 May 2026 |
+| Module 6 — Final Project (AI-graded) | 100% | 24 May 2026 |
+| Final Exam | 100% | 27 May 2026 |
+
+The `Final Assignment Instruction.png` screenshot records the final-project brief
+for context.
+
 ## Relation to the reflection
 
 The model-evaluation and refinement work (module 5 and the final assignment) is
 the activity discussed in the Quantitative Methods section of the Assignment 1B
-reflection. These notebooks are the completion evidence for that section.
+reflection. These notebooks and grade screenshots are the completion evidence for
+that section.
